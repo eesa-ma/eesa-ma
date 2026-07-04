@@ -30,10 +30,10 @@
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,py,js" />
+<img src="https://skillicons.dev/icons?i=c,cpp,py,js,dart" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,flutter" />
 
 ### Backend / DB (Used)
 <img src="https://skillicons.dev/icons?i=supabase" />
