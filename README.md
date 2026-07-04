@@ -77,14 +77,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eesa-ma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</div>
-
----
-
 <div align="center">
 
 ### ✨ Motto  
