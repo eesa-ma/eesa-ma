@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Eesa
 
-### Frontend Developer • React Builder • Problem Solver
+### Frontend Developer 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=I+build+responsive+and+interactive+web+apps;React+%7C+JavaScript+%7C+Tailwind+CSS;Learning+every+day%2C+shipping+projects+consistently" alt="Typing SVG" />
 
